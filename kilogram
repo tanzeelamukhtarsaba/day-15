@@ -1,0 +1,4 @@
+let fattInkg =60; //60kg
+let heightInMeters = 0.83; // 0.83m
+let bmi = fattInkg / (heightInMeters *heightInMeters)
+console.log('your BMI is ${bmi}');
